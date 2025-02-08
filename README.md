@@ -18,14 +18,40 @@
 ### Step 3(UX)
 > what pages we need and And What content will be on our Web Site.
 >>wireframe the Content in Sketches.
+#### some of the commom section of the web page.
+
+*  Navigation --> Helps to Understand What section are Present in Web page.
+  
+*  Hero Section --> the First Section of Every Page is Called Hero Page.it tells all about the Content.this is first Attraction on the page.
+
+*  Call to Action(aka CTA) --> this is the page where we want our  visiter to take action
+
+*  testemonial Section:- where we show happy customer
+
+*  Price Section :- How much thing cost
+
+*  contact Section :- where we tell people how to contact us.
+
+*  footer :- additional info you want.
 
 ### Step 4(Design)(ui)
 >> we try to bring color,font and Images and other Element in our Website.
+---
+**some elment of UI**
+* type :- text, paragraph
+
+* Button/link :- to navigate
+
+* image /video --> covey messages
+
+* form :- submit info
 
 # Step 5 (Developemnt) 
 >Develope them for all the Device and add animationa and other element in the the Web.
 >> either using (HTML,CSS,JS)
 >> or using (no code tool --> Webflow)
+**during Developemt  we create Site map nad Wireframe**
+**we turn sitemaps into WireFrame** 
 ---
 
 ## type of Website Basically have
@@ -36,3 +62,4 @@
 * Protfolio Website --> Show experice pf work of business and Person.
 * Web app --> like Air bnb, Amazone, google etc.
 >>note :- web app category very Different from other above mentioned websites.
+>> note2 :- ask client to give some website that they think best according to them so you get to know there Expectation, from you.
