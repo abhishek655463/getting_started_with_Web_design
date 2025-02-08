@@ -6,7 +6,8 @@
   > > second Way --> Start from very basic and Design by your Own. that is Called Professional Porocess.
 ---
 ### step 2( Planning and Strategy)
-
+* what problem we try to solve using the Website.
+* where we are and Where we want to.
 * we will try to find the W factor Here.
 >Why --> Why we making website
 >> who --> who will use use this
@@ -25,3 +26,13 @@
 >Develope them for all the Device and add animationa and other element in the the Web.
 >> either using (HTML,CSS,JS)
 >> or using (no code tool --> Webflow)
+---
+
+## type of Website Basically have
+* Ecommerce website --> selling products
+* Marketing/Business Website --> Website We like Tesla website or other brands where we see the story and in general features of products/company.
+* Content --> website Contain blogs and Media.
+* Educatioanl Website --> online course, of learning Stuff.
+* Protfolio Website --> Show experice pf work of business and Person.
+* Web app --> like Air bnb, Amazone, google etc.
+>>note :- web app category very Different from other above mentioned websites.
